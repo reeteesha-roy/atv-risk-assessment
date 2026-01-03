@@ -1,3 +1,6 @@
 flask
-openai
 pandas
+openai
+python-dotenv
+gunicorn
+
